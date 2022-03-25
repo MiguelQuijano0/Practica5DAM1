@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DAM1_practica4</string>
+    <string name="practice">Practica 4</string>
+    <string name="leapyear">Año Bisiesto</string>
+    <string name="array">Array</string>
+    <string name="table">Tablas de multiplicar</string>
+    <string name="average">promedio</string>
+    <string name="year">Ingrese un año</string>
+    <string name="validate">Validar</string>
+    <string name="typenumb">ingresa un numero</string>
+    <string name="Calculated">calcular</string>
+    <string name="number">Numero</string>
+    <string name="english">ingles</string>
+    <string name="DAM1">DAM1</string>
+    <string name="admin">Administracion</string>
+    <string name="BD">Base de Datos</string>
+    <string name="UML">UML</string>
+</resources>
